@@ -1,13 +1,6 @@
-# Stack Syndicate
+## What is this?
 
 Stack Syndicate is a collection of scientific, creative, and technical experiments — spanning generative art, physics simulation, and developer tooling. It’s a long-term project that hopes to provide value to the Rust ecosystem, and the wider programming community.
-
-## What this is
-
-This repo hosts the ongoing work behind Stack Syndicate, including:
-
-- Libraries under active development
-- Educational tools and experimental systems (one day!)
 
 ## Philosophy
 
