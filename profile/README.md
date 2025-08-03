@@ -1,4 +1,4 @@
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/License_- MIT-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=7F0000'/></a>
+<a target="_blank"><img alt='' src='https://img.shields.io/badge/License_- MIT-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=7F0000'/></a>
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![Support on Ko-fi](https://img.shields.io/badge/Donate-999999?style=for-the-badge&logo=ko-fi&label=ko-fi&labelColor=333333)](https://ko-fi.com/stacksyndicate)
 [![Substack](https://img.shields.io/badge/Read-999999?style=for-the-badge&logo=Substack&label=Substack&labelColor=333333)](https://stacksyndicate.substack.com)
